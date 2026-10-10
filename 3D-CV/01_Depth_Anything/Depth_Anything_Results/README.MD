@@ -1,12 +1,12 @@
 
-### Video Depth Estimation — TUM RGB-D
+### Video Depth Estimation 
 
 Depth Anything V2 Small was applied to the RGB frames of the
 `freiburg1_xyz` sequence from the
 [TUM RGB-D dataset](https://cvg.cit.tum.de/data/datasets/rgbd-dataset).
 
 The following GIF shows a short visualization of the predicted depth maps.
-It is a result generated for this project, not the original TUM depth video.
+It is a small part of the result generated for this project, not the original TUM depth video.
 
 ![Predicted depth on TUM RGB-D freiburg1_xyz](results/tum_freiburg1_xyz_depth.gif)
 
