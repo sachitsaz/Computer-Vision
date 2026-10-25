@@ -47,7 +47,11 @@ This folder contains the outputs of the video-based proximity warning experiment
 | `DepthAnything_ProximityWarning_results.csv` | Quantitative results from the proximity warning experiment, including frame-level warning information and estimated proximity values. |
 | `Sequence_Day_11_metric_warning_36_to_42.gif` | GIF visualization of the proximity warning system operating on the Roadscapes video sequence. |
 
-![Roadscapes proximity warning](DepthAnything_warning_sys/Sequence_Day_11_metric_warning_36_to_42.gif)
+<p align="center">
+  <img src="DepthAnything_warning_sys/Sequence_Day_11_metric_warning_36_to_42.gif"
+       width="250"
+       alt="Roadscapes proximity warning system">
+</p>
 
 The system estimates metric depth, analyzes a selected region of interest (ROI), and uses the 10th percentile (P10) of valid depth values as a proximity indicator. A warning is activated when this value falls below the selected threshold for the required number of consecutive frames.
 
