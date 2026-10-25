@@ -26,7 +26,11 @@ The comparison evaluates the trade-off between depth estimation accuracy and com
 
 The following GIF presents a short visualization of video depth estimation using Depth Anything V2.
 
-![Depth Anything video depth estimation](DepthAnything_videoOutput_short.gif)
+<p align="center">
+  <img src="DepthAnything_videoOutput_short.gif"
+       width="500"
+       alt="Depth Anything video depth estimation">
+</p>
 
 The experiment uses the `freiburg1_xyz` sequence from the TUM RGB-D dataset. RGB frames are processed to estimate depth maps, allowing the model's output to be examined across a video sequence.
 
