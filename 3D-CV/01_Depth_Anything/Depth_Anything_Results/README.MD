@@ -96,11 +96,7 @@ The experiment processed 798 frames at a resolution of 640 × 480 pixels. The so
 
 The generated depth visualization is a project output, not an original TUM RGB-D depth video.
 
-#### Example Result
-
-The following GIF shows a short visualization of the predicted depth maps generated for this project.
-
-![Depth Anything video depth estimation on TUM RGB-D](DepthAnything_videoOutput_short.gif)
+The generated depth visualization is available in [Section 1.2](#-12-video-depth-estimation).
 
 #### Attribution and License
 
