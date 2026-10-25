@@ -238,7 +238,3 @@ Potential improvements include:
 The project progresses from fundamental monocular depth estimation to a video-based proximity warning application. The experiments demonstrate the usefulness of depth maps for scene interpretation, model comparison, and near/far analysis, while also highlighting the differences between relative and metric depth.
 
 The final phase demonstrates how depth estimates can support a warning mechanism over consecutive video frames. Further work is needed to improve processing speed, validate distance estimates, calibrate warning thresholds, and increase reliability before such a system could be considered for safety-critical applications.
-
----
-
-**📑 Explore the `Depth_Anything_Reports/` folder for detailed explanations and the `Depth_Anything_Results/` folder for experimental outputs.**
