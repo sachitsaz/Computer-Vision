@@ -233,20 +233,6 @@ Potential improvements include:
 
 ---
 
-## 📂 Repository Structure
-
-The `Depth_Anything/` folder contains the code, documentation, and experimental outputs for all seven phases.
-
-| Folder / Content | Description |
-|---|---|
-| **Code and notebooks** | Implementations of the depth-estimation experiments and warning system. |
-| 📑 `Depth_Anything_Reports/` | Detailed methodology, explanations, analysis, and conclusions for each phase. |
-| 🖼️ `Depth_Anything_Results/` | Generated depth maps, visualizations, comparison results, processed videos, and other experimental outputs. |
-
-Please refer to the corresponding report for the detailed explanation of each phase and to the results folder to inspect its outputs.
-
----
-
 ## 🏁 Overall Conclusions
 
 The project progresses from fundamental monocular depth estimation to a video-based proximity warning application. The experiments demonstrate the usefulness of depth maps for scene interpretation, model comparison, and near/far analysis, while also highlighting the differences between relative and metric depth.
