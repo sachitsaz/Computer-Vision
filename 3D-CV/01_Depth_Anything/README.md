@@ -9,13 +9,17 @@ This project explores monocular depth estimation using **Depth Anything V2**, fr
 
 The project consists of seven phases, progressing from fundamental depth estimation to a practical application for identifying potentially nearby objects in driving footage.
 
-## 📂 Reports & Results
+## 📂 Repository Structure
 
-Detailed explanations, methodologies, and analyses for all seven phases are available in **`Depth_Anything_Reports/`**.
+The `Depth_Anything/` folder contains the code, documentation, and experimental outputs for all seven phases.
 
-The **`Depth_Anything_Results/`** folder contains the generated depth maps, visualizations, model comparison results, processed videos, and other experimental outputs.
+| Folder / Content | Description |
+|---|---|
+| **Code and notebooks** | Implementations of the depth-estimation experiments and warning system. |
+| 📑 `Depth_Anything_Reports/` | Detailed methodology, explanations, analysis, and conclusions for each phase. |
+| 🖼️ `Depth_Anything_Results/` | Generated depth maps, visualizations, comparison results, processed videos, and other experimental outputs. |
 
-Explore these folders for a detailed understanding of the experiments and their results.
+Please refer to the corresponding report for the detailed explanation of each phase and to the results folder to inspect its outputs.
 
 ---
 
