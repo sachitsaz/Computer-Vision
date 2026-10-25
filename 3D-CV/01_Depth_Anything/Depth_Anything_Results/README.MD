@@ -28,7 +28,7 @@ The following GIF presents a short visualization of video depth estimation using
 
 <p align="center">
   <img src="DepthAnything_videoOutput_short.gif"
-       width="500"
+       width="250"
        alt="Depth Anything video depth estimation">
 </p>
 
