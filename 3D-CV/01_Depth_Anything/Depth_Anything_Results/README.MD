@@ -19,6 +19,7 @@ The comparison evaluates the trade-off between depth estimation accuracy and com
 
 > **Note:** Only eight image pairs were used in this experiment. The results are useful for testing and comparing the implemented pipeline, but should not be interpreted as a comprehensive benchmark of the models.
 
+<a id="video-depth-estimation"></a>
 ### 🎞️ 1.2. Video Depth Estimation
 
 **File:** `DepthAnything_videoOutput_short.gif`
@@ -96,7 +97,7 @@ The experiment processed 798 frames at a resolution of 640 × 480 pixels. The so
 
 The generated depth visualization is a project output, not an original TUM RGB-D depth video.
 
-The generated depth visualization is available in [Section 1.2](#-12-video-depth-estimation).
+The generated depth visualization is available in [Section 1.2](#video-depth-estimation).
 
 #### Attribution and License
 
