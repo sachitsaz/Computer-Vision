@@ -96,8 +96,6 @@ When using this dataset, please acknowledge the original SUN RGB-D dataset and c
 
 S. Song, S. P. Lichtenberg, and J. Xiao, “SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite,” *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2015.
 
-**BibTeX:**
-
 ```bibtex
 @inproceedings{song2015sunrgbd,
   title={SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite},
