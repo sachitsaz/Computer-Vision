@@ -34,7 +34,7 @@ The following GIF presents a short visualization of video depth estimation using
 
 The experiment uses the `freiburg1_xyz` sequence from the TUM RGB-D dataset. RGB frames are processed to estimate depth maps, allowing the model's output to be examined across a video sequence.
 
-The GIF is a project-generated visualization, not an original depth video distributed by the dataset provider.
+The GIF is a short project-generated visualization, not an original depth video distributed by the dataset provider.
 
 ### 🚗 1.3. Proximity Warning System
 
