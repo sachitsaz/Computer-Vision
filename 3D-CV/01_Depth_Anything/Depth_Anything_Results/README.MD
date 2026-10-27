@@ -45,7 +45,7 @@ This folder contains the outputs of the video-based proximity warning experiment
 | File | Description |
 |---|---|
 | `DepthAnything_ProximityWarning_results.csv` | Quantitative results from the proximity warning experiment, including frame-level warning information and estimated proximity values. |
-| `Sequence_Day_11_metric_warning_36_to_42.gif` | GIF visualization of the proximity warning system operating on the Roadscapes video sequence. |
+| `Sequence_Day_11_metric_warning_36_to_42.gif` | Small GIF visualization of the proximity warning system operating on the Roadscapes video sequence. |
 
 <p align="center">
   <img src="DepthAnything_warning_sys/Sequence_Day_11_metric_warning_36_to_42.gif"
