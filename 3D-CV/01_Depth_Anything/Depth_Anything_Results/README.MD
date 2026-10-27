@@ -121,6 +121,16 @@ When using or redistributing the original data or materials derived from it, con
 
 J. Sturm, N. Engelhard, F. Endres, W. Burgard, and D. Cremers, “A Benchmark for the Evaluation of RGB-D SLAM Systems,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2012.
 
+BibTeX Citation
+
+@InProceedings{sturm12iros,
+  author    = {J. Sturm and N. Engelhard and F. Endres and W. Burgard and D. Cremers},
+  title     = {A Benchmark for the Evaluation of RGB-D SLAM Systems},
+  booktitle = {Proceedings of the International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2012},
+  month     = {October}
+}
+
 ### 🚗 2.3. Roadscapes Video Dataset — Day 11
 
 #### Description
