@@ -4,7 +4,7 @@ This folder contains the main experimental outputs of the Depth Anything project
 
 ## 1. Results Overview
 
-### ⚖️ 1.1. Model Trade-off Analysis
+### ⚖️ 1.1. Model Trade-off Analysis - Phase 3
 
 **Folder:** `DepthAnything_models_Trade-off_results/`
 
@@ -20,7 +20,7 @@ The comparison evaluates the trade-off between depth estimation accuracy and com
 > **Note:** Only eight image pairs were used in this experiment. The results are useful for testing and comparing the implemented pipeline, but should not be interpreted as a comprehensive benchmark of the models.
 
 <a id="video-depth-estimation"></a>
-### 🎞️ 1.2. Video Depth Estimation
+### 🎞️ 1.2. Video Depth Estimation - Phase 4
 
 **File:** `DepthAnything_videoOutput_short.gif`
 
@@ -36,7 +36,7 @@ The experiment uses the `freiburg1_xyz` sequence from the TUM RGB-D dataset. RGB
 
 The GIF is a short project-generated visualization, not an original depth video distributed by the dataset provider.
 
-### 🚗 1.3. Proximity Warning System
+### 🚗 1.3. Proximity Warning System - Phase 7
 
 **Folder:** `DepthAnything_warning_sys/`
 
