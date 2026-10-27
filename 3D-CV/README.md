@@ -4,7 +4,7 @@ This section contains my 3D computer vision projects and experiments, focusing o
 
 ## 📂 Projects
 
-### 🔹 [Depth Anything V2](./01_Depth_Anything/)
+### 🔹 [Depth Anything](./01_Depth_Anything/)
 
 Monocular depth estimation, quantitative model comparison, video depth visualization, and a proximity warning system using depth estimation.
 
