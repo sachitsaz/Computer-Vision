@@ -84,9 +84,30 @@ Depth8 is intended for pipeline testing and debugging rather than comprehensive 
 
 #### Attribution and License
 
-**Source:** [Ultralytics Depth8 Dataset Documentation](https://github.com/ultralytics/ultralytics/blob/main/docs/en/datasets/depth/depth8.md)
+**Dataset:** [Ultralytics Depth8](https://github.com/ultralytics/ultralytics/blob/main/docs/en/datasets/depth/depth8.md)
 
-The cited Ultralytics documentation does not specify a license for the Depth8 dataset or clarify the applicable license terms for the underlying SUN RGB-D data. Do not assume that the dataset is unrestricted for redistribution or reuse. Consult the original dataset sources for applicable permissions before redistributing or reusing the data.
+Depth8 contains eight RGB-D image pairs sampled from the [SUN RGB-D dataset](https://github.com/ultralytics/ultralytics/blob/main/docs/en/datasets/depth/sunrgbd.md). The cited documentation does not specify a license for the underlying dataset.
+
+The experiments in this project use Depth8 for small-scale testing and analysis. The repository contains the experimental notebooks, reports, CSV results, and generated visualizations; the original Depth8 image pairs are not redistributed.
+
+When using this dataset, please acknowledge the original SUN RGB-D dataset and cite the following publication.
+
+**Dataset paper:**
+
+S. Song, S. P. Lichtenberg, and J. Xiao, “SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite,” *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2015.
+
+**BibTeX:**
+
+```bibtex
+@inproceedings{song2015sunrgbd,
+  title={SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite},
+  author={Song, Shuran and Lichtenberg, Samuel P. and Xiao, Jianxiong},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2015}
+}
+```
+
+For reuse or redistribution of original dataset content, consult the source documentation and applicable permissions before proceeding.
 
 ### 🎞️ 2.2. TUM RGB-D Dataset
 
