@@ -44,6 +44,7 @@ Three datasets were used across the seven phases of this project.
 | Dataset | Application | Source & Usage Terms |
 |---|---|---|
 | **Ultralytics Depth8** | Single-image depth estimation, numerical analysis, model comparison, and near/far object analysis. Contains eight indoor RGB-D image pairs sampled from SUN RGB-D. | [Official documentation](https://github.com/ultralytics/ultralytics/blob/main/docs/en/datasets/depth/depth8.md) · Dataset license not specified in the documentation. |
+| **Ultralytics Depth8** | Single-image depth estimation, numerical analysis, model comparison, and near/far object analysis. Contains eight indoor RGB-D image pairs sampled from SUN RGB-D. | [Depth8 documentation](https://github.com/ultralytics/ultralytics/blob/main/docs/en/datasets/depth/depth8.md) · [SUN RGB-D source, citation, and license information](https://github.com/ultralytics/ultralytics/blob/main/docs/en/datasets/depth/sunrgbd.md#citations-and-acknowledgments). The dataset license is not specified in the cited documentation. |
 | **TUM RGB-D** | Video depth estimation and RGB/depth overlay experiments using the `freiburg1_xyz` sequence. | [Official dataset page](https://cvg.cit.tum.de/data/datasets/rgbd-dataset) · CC BY 4.0 for dataset data. |
 | **Roadscapes Video** | Phase 7: depth-based proximity warning using driving footage from Day 11. | [Dataset page](https://huggingface.co/datasets/vijpandaturtle/roadscapes-video) · CC BY-NC 4.0. |
 
