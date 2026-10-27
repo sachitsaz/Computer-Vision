@@ -192,20 +192,15 @@ The following is a suggested BibTeX-style entry based on the dataset's Hugging F
 - **Proximity threshold:** The 8.0 m threshold is an experimental parameter, not a validated international safety standard or a universally applicable safe-distance threshold.
 - **Dataset terms:** Consult the original dataset documentation and license information before redistributing dataset files or derived content. The inclusion of results in this repository does not change the original datasets' licensing conditions.
 
-#### Model Licenses
-
-The Depth Anything V2 models used in this experiment have different licenses:
-
-- **Small:** [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- **Base:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-See the [official Depth Anything V2 repository](https://github.com/DepthAnything/Depth-Anything-V2) for licensing details.
-
 ### Model Licenses
 
-The project uses Depth Anything V2 models for depth estimation. The standard Small model is licensed under Apache 2.0, while the standard Base model is licensed under CC BY-NC 4.0.
+The following Depth Anything V2 checkpoints were used in this project:
 
-For the metric-depth Hypersim checkpoint, refer to the [official metric-depth documentation](https://github.com/DepthAnything/Depth-Anything-V2/blob/main/metric_depth/README.md) and the specific checkpoint's model card for applicable licensing terms.
+- **Small (relative depth):** [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- **Base (relative depth):** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- **Metric Hypersim Small:** [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+See the [official repository](https://github.com/DepthAnything/Depth-Anything-V2) and the relevant model cards for details. The Base model's license restricts commercial use.
 
 ## 4. Reproducibility
 
