@@ -163,7 +163,7 @@ The following is a suggested BibTeX-style entry based on the dataset's Hugging F
 
 ```bibtex
 @dataset{roadscapes_video,
-  author    = {{vijpandaturtle}},
+  author    = {vijpandaturtle},
   title     = {Roadscapes Video Dataset},
   year      = {2025},
   publisher = {Hugging Face},
